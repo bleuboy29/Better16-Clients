@@ -12,7 +12,6 @@ Select a version to start the download directly:
 * [Download Better16 64 BIT (Work)](https://github.com/bleuboy29/Better16-Clients/releases/download/PhoneClient/Better16.apk) - Base stable build.
 * [Download Better16 32 BIT (Work)](https://github.com/bleuboy29/Better16-Clients/releases/download/PhoneClient32/Better16.30BIT.apk) - Fixes for crashes and texture bugs.
 
-*(Note: Replace the placeholders above with the direct links copied from your GitHub Releases).*
 
 ## Installation
 
